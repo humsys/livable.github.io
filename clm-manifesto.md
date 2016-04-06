@@ -11,9 +11,9 @@ Our initial research groups will focus on two ideas. First, inventing media that
 
 When we sense that we are making meaningful choices and acts, and deciding how our lives should go, that’s called agency. Some environments encourage meaningful choices, while others funnel us along in a way that limits our agency. Current media does too much funneling.
 
-Each person needs certain relationships in order to live fully and well. We can use the term social fabric for the collection of all these relations and their constituent activities. Current media does not support a full range of relationships and activities.
+Each person needs certain relationships in order to live fully and well. We use the term social fabric to encompass the collection of all these relations and their constituent activities. Current media does not support a full range of relationships and activities.
 
-We use these terms as lenses to look at how media impacts life and to focus our efforts. They are just abstractions, and we are dedicated to justifying them only by how they appear as common threads in real, human lives<a name="text">.</a><sup>[0](#abstraction)</sup>
+We use these terms as lenses to look at how media impacts life and to focus our efforts. But they are just abstractions, and we are dedicated to justifying them only by how they appear as common threads in real, human lives<a name="text">.</a><sup>[0](#abstraction)</sup>
 
 
 ### Research Groups—Agency
