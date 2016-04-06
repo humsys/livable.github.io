@@ -13,7 +13,7 @@ When we sense that we are making meaningful choices and acts, and deciding how o
 
 Each person needs certain relationships in order to live fully and well. We use the term social fabric to encompass the collection of all these relations and their constituent activities. Current media does not support a full range of relationships and activities.
 
-We use these terms as lenses to look at how media impacts life and to focus our efforts. But they are just abstractions, and we are dedicated to justifying them only by how they appear as common threads in real, human lives<a name="text">.</a><sup>[0](#abstraction)</sup>
+We use these terms as lenses to look at how media impacts life and to focus our efforts. But they are just abstractions, and we are dedicated to justifying them only by how they appear as common threads in real, human lives<a name="text">.</a><sup>[1](#abstraction)</sup>
 
 
 ### Research Groups—Agency
@@ -49,7 +49,7 @@ April 2016
 BERLIN
 
 
-<sub><a name="abstraction">[0]</a> Most idealists hope their work will improve human lives, but idealistic thinking can get dangerous as it moves away from the details of human life. There is a tendency to turn abstract ideas—ideas like “happiness,” “privacy,” “sharing,” “immersive,” “distributed,” “efficient,” “compelling,” or even “social”—into ends. Ideals become ideologies, and work done in their name becomes disconnected from human reality, and sometimes harmful.</sub>
+<sub><a name="abstraction">[1]</a> Most idealists hope their work will improve human lives, but idealistic thinking can get dangerous as it moves away from the details of human life. There is a tendency to turn abstract ideas—ideas like “happiness,” “privacy,” “sharing,” “immersive,” “distributed,” “efficient,” “compelling,” or even “social”—into ends. Ideals become ideologies, and work done in their name becomes disconnected from human reality, and sometimes harmful.</sub>
 
 <sub>For this reason, CLM will support a certain kind of research. We’ll avoid work which doesn’t land in people lives in a practical, everyday, way: for instance, we’ll avoid critical art, critical commentary, and awareness campaigns. We will also avoid anything with structural pressure to pretend to be beneficial: for example, we’ll avoid consumer products and spin-off NGOs.</sub>
 
