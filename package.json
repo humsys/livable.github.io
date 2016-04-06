@@ -1,0 +1,6 @@
+{
+  "name": "livable.github.io",
+  "dependencies": {
+    "marky-markdown": "^7.0.0"
+  }
+}
