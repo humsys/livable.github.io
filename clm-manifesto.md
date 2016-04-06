@@ -7,14 +7,13 @@ The Center for Livable Media will find these researchers and support their work.
 
 ## Research Groups
 
-Our initial research groups will focus on two ideas. First, inventing media that give us greater agency in our lives. Second, inventing media that supports a more complete social fabric. These groups come from a dissatisfaction with how current media shape our lives.
+Our initial research groups will focus on two ideas. First, inventing media that give us greater agency in our lives. Second, inventing media that supports a more complete social fabric. These groups are born out of a widespread dissatisfaction with how current media shape our lives.
 
-When we sense that we are making meaningful choices and acts, and deciding how our lives should go, that's called agency. Some environments encourage meaningful choices, while others funnel us along in a way that limits our agency. Current media does too much funneling.
+When we sense that we are making meaningful choices and acts, and deciding how our lives should go, that’s called agency. Some environments encourage meaningful choices, while others funnel us along in a way that limits our agency. Current media does too much funneling.
 
-Each person needs certain relationships in order to live fully and well. We can use the term social fabric for the collection of all these relations and all of the activities they consist of. Current media does not support a full range of relationships and activities.
+Each person needs certain relationships in order to live fully and well. We can use the term social fabric for the collection of all these relations and their constituent activities. Current media does not support a full range of relationships and activities.
 
-These are lenses to look at how media impacts life. They are <a name="text">abstractions</a><sup>[0](#abstraction)</sup>, their use justified only by how they appear as common threads in real, human lives.
-
+We use these terms as lenses to look at how media impacts life and to focus our efforts. They are just abstractions, and we are dedicated to justifying them only by how they appear as common threads in real, human lives<a name="text">.</a><sup>[0](#abstraction)</sup>
 
 
 ## Research Groups—Agency
@@ -23,14 +22,14 @@ These are lenses to look at how media impacts life. They are <a name="text">abst
 
 **Histories.** The time structure of audio, video, text, and infinitely scrolling feeds can put us in an unexpressive, unreflective, and dissociated state. This can create attitudes of passive consumption, both regarding our personal history, and our collective histories and destinies. Accordingly, CLM supports work on intimate and expressive *interfaces for confronting histories*, not just to “play” them or to scroll through them. Our researchers will develop algorithms, representations, and interfaces for working with recorded histories that provide agency to an individual over a mass of media.
 
-**Sanctuary.** Operating systems APIs and SDKs allow apps to tell us what's important (via notifications and feeds and other interactions) rather than ensuring apps respect how we want our lives to go. Accordingly, CLM supports developing *platform APIs for human dignity*. Our researchers will design alternate operating system API layers that provides sanctuary from third party manipulation, respecting and supporting people's lives and deepest values.
+**Sanctuary.** Operating systems APIs and SDKs allow apps to tell us what’s important (via notifications and feeds and other interactions) rather than ensuring apps respect how we want our lives to go. Accordingly, CLM supports developing *platform APIs for human dignity*. Our researchers will design alternate operating system API layers that provides sanctuary from third party manipulation, respecting and supporting people’s lives and deepest values.
 
 
 ## Research Groups—Social Fabric
 
-**Gift.** What are the most substantial ways for others to be in our lives? What social acts are transformative for us? What are the biggest gifts we give one another? Whether it’s helping someone move, sharing a passion, inviting them to feel their feelings, confronting a scary challenge together — these acts aren't enabled by current social networks, which restrict behavior. Accordingly, CLM supports prototyping *negotiable models for social networking that support transformative, substantial, relationships*.
+**Gift.** What are the most substantial ways for others to be in our lives? What social acts are transformative for us? What are the biggest gifts we give one another? Whether it’s helping someone move, sharing a passion, inviting them to feel their feelings, confronting a scary challenge together — these acts aren’t enabled by current social networks, which restrict behavior. Accordingly, CLM supports prototyping *negotiable models for social networking that support transformative, substantial, relationships*.
 
-**Response.** Public actors—whether they are celebrities, companies, artists, governments, or nonprofits—have a huge impact on a network of people. They try to be responsible for that impact by using twitter @-replies, analytics dashboards, metrics, and feedback forms. These platforms do not surface the information required to be deeply responsible to someone. Accordingly, CLM supports work on *responsible networks*. But what does it take to be deeply responsible to someone? You may need analysis of their hopes, values, and situations that these platforms don't collect.
+**Response.** Public actors—whether they are celebrities, companies, artists, governments, or nonprofits—have a huge impact on a network of people. They try to be responsible for that impact by using twitter @-replies, analytics dashboards, metrics, and feedback forms. These platforms do not surface the information required to be deeply responsible to someone. Accordingly, CLM supports work on *responsible networks*. But what does it take to be deeply responsible to someone? You may need analysis of their hopes, values, and situations that these platforms don’t collect.
 
 **Desire.** We need many kinds of social relations to live well: clubs, mentorships, partnerships, social routines, etc. The requisite social activity should follow from the expression of social needs. Existing platforms like Meetup and Facebook Groups hardly support the statement of needs or adequate structures where they could be met. Often we end up choosing social relations that fit into an app or the prevailing culture. Accordingly, CLM supports work on *actionable specification of social needs*.
 
@@ -39,7 +38,7 @@ These are lenses to look at how media impacts life. They are <a name="text">abst
 
 There will be many ways to participate!  We will be gathering researchers for these teams and raising funds to support them.
 
-We'll be launching a training program for those who can apply our research. We're looking for interested organization who can benefit from our research, and for groups that want to help us run the training.
+We’ll be launching a training program for those who can apply our research. We’re looking for interested organization who can benefit from our research, and for groups that want to help us run the training.
 
 Please get in touch if you want to help.
 
@@ -52,6 +51,6 @@ BERLIN
 
 <sub><a name="abstraction">0</a>: Most idealists hope their work will improve human lives, but idealistic thinking can get dangerous as it moves away from the details of human life. There is a tendency to turn abstract ideas—ideas like “happiness,” “privacy,” “sharing,” “immersive,” “distributed,” “efficient,” “compelling,” or even “social”—into ends. Ideals become ideologies, and work done in their name becomes disconnected from human reality, and sometimes harmful.</sub>
 
-<sub>For this reason, CLM will support a certain kind of research. We'll avoid work which doesn't land in people lives in a practical, everyday, way: for instance, we'll avoid critical art, critical commentary, and awareness campaigns. We will also avoid anything with structural pressure to pretend to be beneficial: for example, we'll avoid consumer products and spin-off NGOs.</sub>
+<sub>For this reason, CLM will support a certain kind of research. We’ll avoid work which doesn’t land in people lives in a practical, everyday, way: for instance, we’ll avoid critical art, critical commentary, and awareness campaigns. We will also avoid anything with structural pressure to pretend to be beneficial: for example, we’ll avoid consumer products and spin-off NGOs.</sub>
 
 <sub>Instead, CLM will support researchers who develop motivating proofs-of-concept and prototypes, loose methodologies, or simple communities of practice. CLM researchers will be vigilant and explicit about when abstract values become motivations, and will work to evaluate projects by the rich unexpected details of the diverse human lives where their prototypes find expression. [↩](#text) </sub>
