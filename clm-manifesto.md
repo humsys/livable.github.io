@@ -49,7 +49,7 @@ April 2016
 BERLIN
 
 
-<sub><a name="abstraction">0</a>: Most idealists hope their work will improve human lives, but idealistic thinking can get dangerous as it moves away from the details of human life. There is a tendency to turn abstract ideas—ideas like “happiness,” “privacy,” “sharing,” “immersive,” “distributed,” “efficient,” “compelling,” or even “social”—into ends. Ideals become ideologies, and work done in their name becomes disconnected from human reality, and sometimes harmful.</sub>
+<sub><a name="abstraction">[0]</a> Most idealists hope their work will improve human lives, but idealistic thinking can get dangerous as it moves away from the details of human life. There is a tendency to turn abstract ideas—ideas like “happiness,” “privacy,” “sharing,” “immersive,” “distributed,” “efficient,” “compelling,” or even “social”—into ends. Ideals become ideologies, and work done in their name becomes disconnected from human reality, and sometimes harmful.</sub>
 
 <sub>For this reason, CLM will support a certain kind of research. We’ll avoid work which doesn’t land in people lives in a practical, everyday, way: for instance, we’ll avoid critical art, critical commentary, and awareness campaigns. We will also avoid anything with structural pressure to pretend to be beneficial: for example, we’ll avoid consumer products and spin-off NGOs.</sub>
 
