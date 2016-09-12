@@ -1,56 +1,66 @@
-# Announcing the Center for Livable Media
+# A Call, to Come Work on Livable Technology and Livable Media
 
-Changes in cities can make them better or worse for the people who live in them. Like cities, media systems influence our lives and interactions. So, our media—the technologies of thought and communication available to us—can also be better or worse for us. Yet few researchers develop and design new media explicitly so as to work out better for people.
+There is important work on the future of media that's not getting done. Neither the bright-eyed app makers nor academic tech critics are facing down the big problems with the current media and tech environment and lighting the way forward.
 
-The Center for Livable Media will find these researchers and support their work. There will be international research groups around certain topics. There will be a physical space in Berlin for residencies and for in-person media experiments. There will be support for building communities of practice around the projects that emerge.
+We need the tech equivalent of the utopian urban planners and the livable cities movement. They looked at problems like sprawl and pollution and neighborhood decline, and articulated how to aim for better cities.  
 
+We are starting the Center for Livable Media to figure out how to fix what's wrong with the current technological and media landscape, and then to demonstrate what a better landscape might look like, so as to inform industry, policy, and open source projects.
 
-## Research Groups
-
-Our initial research groups will focus on two ideas. First, inventing media that give us greater *agency* in our lives. Second, inventing media that supports a more complete *social fabric*.
-
-**Agency.** When we sense that we are making meaningful choices and acts, and deciding how our lives should go, that’s called agency. Some environments encourage meaningful choices, while others funnel us along in a way that limits our agency. Current media does too much funneling.
-
-**Social fabric.** Each person needs certain relationships in order to live fully and well. We use the term social fabric to encompass the collection of all these relations and their constituent activities. Current media does not support a full range of relationships and activities.
-
-One of our guiding principles<a name="text">.</a><sup>[1](#abstraction)</sup> is that we will not let abstractions like these become goals. We are dedicated to justifying our work only by how it lands in real, human lives.
+To this end, our researchers will make three different types of prototypes: First, we'll build exploratory prototypes that might point to solutions for one of the problems we've identified.  Next, we'll build proofs of concept—tests of an alternative technological regime in which it is possible to live for a while—to see whether they really feel better for people. Finally, we'll build persuasive prototypes that aim to influence industry in a particular direction.
 
 
-### Research Groups—Agency
-
-* When using notification screens, newsfeeds, and voice prompts, we make small and large choices about our lives, about our relationships, and about our time. But often these interactions are structured to take agency away from us, to keep us isolated and “engaging” with the device. Accordingly, CLM supports work on ***interfaces for meaningful choice***. Our researchers will seek out design principles and interface paradigms that help the user to discover and pursue their truest desires, with the greatest agency, rather than sloshing down a designed funnel or operating according to habit.
-
-* The time structure of audio, video, text, and infinitely scrolling feeds can put us in an unexpressive, unreflective, and dissociated state. This can create attitudes of passive consumption, both regarding our personal history, and our collective histories and destinies. Accordingly, CLM supports work on intimate and expressive ***interfaces for confronting histories***, not just to “play” them or to scroll through them. Our researchers will develop algorithms, representations, and interfaces for working with recorded histories that provide agency to an individual over a mass of media.
-
-* Operating systems APIs and SDKs allow apps to tell us what’s important (via notifications and feeds and other interactions) rather than ensuring apps respect how we want our lives to go. Accordingly, CLM supports developing ***platform APIs for human dignity***. Our researchers will design alternate operating system API layers that provides sanctuary from third party manipulation, respecting and supporting people’s lives and deepest values.
+We are focusing on four problem areas:
 
 
-### Research Groups—Social Fabric
+1. Executable Dreams
 
-* Public actors—whether they are companies, celebrities, artists, governments, or nonprofits—impact networks of people. Sometimes, they try to be responsible for that impact, by using twitter @-replies, analytics dashboards, metrics, or feedback forms. These platforms don't work. A different kind of information is required to be deeply responsible to someone, including knowledge of hopes, values, reasons, and situations. Accordingly, CLM supports work on ***information systems for responsible networks***.
+When toolmakers talk about the future of programming, they often focus on making it easier to make simple games, or to do business analytics, or to manipulate mathematical models. We believe there's a more important domain in which to make programming easier (or unnecessary): the domain of our individual and social dreams.
 
-* How can others be present in our lives in the most substantial ways? What are the biggest gifts we give one another? Current social networks support certain aspects of relationships but neglect others. Accordingly, CLM prototypes ***substantial and transformative social networks***.
+While some of us may dream of making a particular app or a particular game, there are more common dreams: a regular dinner party, a book club, advisors and collaborators for a project idea, a party which requires complex coordination, a running buddy each week.
 
-* We need many kinds of social relations to live well: clubs, mentorships, partnerships, social routines, etc. The requisite social activity should follow from the expression of social needs. Existing platforms like Meetup and Facebook Groups hardly support the statement of needs or adequate structures where they could be met. Often we end up choosing social relations that fit into an app or the prevailing culture. Accordingly, CLM supports work on ***active specifications for social needs***.
+Existing platforms like Meetup and Facebook Groups go some distance in helping us to realize these dreams, but they have no provision for automatic scheduling, for dependencies, for tasks and roles, and for workflows more generally. And while they promise us a social dream, in the meantime we are isolated organizers behind screens, administering the bureaucracy of messaging that we hope will lead to a successful potluck or camping trip or whatever.
 
+Most often, instead of dreaming up the social relations that would support us best, we choose social relations that fit into an app or the prevailing culture. Swiping left or right on faces late into the night, commenting on ridiculous political articles, without ever imagining a way of relating that would suit us better.
 
-## Work with us
-
-There will be many ways to participate!  We will be gathering researchers for these teams and raising funds to support them.
-
-We’ll be launching a training program for those who can apply our research. We’re looking for interested organization who can benefit from our research, and for groups that want to help us run the training.
-
-Please get in touch if you want to help.
-
-Yours,
-
-Rob Ochshorn and Joe Edelman  
-April 2016  
-BERLIN
+Let's dream again.
 
 
-<sub><a name="abstraction">[1]</a> Most idealists hope their work will improve human lives, but idealistic thinking can get dangerous as it moves away from the details of human life. There is a tendency to turn abstract ideas—ideas like “happiness,” “privacy,” “sharing,” “immersive,” “distributed,” “efficient,” “compelling,” or even “social”—into ends. Ideals become ideologies, and work done in their name becomes disconnected from human reality, and sometimes harmful.</sub>
 
-<sub>For this reason, CLM will support a certain kind of research. We’ll avoid work which doesn’t land in people lives in a practical, everyday, way: for instance, we’ll avoid critical art, critical commentary, and awareness campaigns. We will also avoid anything with structural pressure to pretend to be beneficial: for example, we’ll avoid consumer products and spin-off NGOs.</sub>
+2. Networks of Refuge
 
-<sub>Instead, CLM will support researchers who develop motivating proofs-of-concept and prototypes, loose methodologies, or simple communities of practice. CLM researchers will be vigilant and explicit about when abstract values become motivations, and will work to evaluate projects by the rich unexpected details of the diverse human lives where their prototypes find expression. [↩](#text) </sub>
+One function of our social relations is to give us space to be ourselves, or to grow into who we want to be; To protect us--to give us refuge while we explore something of value. That could be a kind of creativity (as in relationships of creative riffing), a kind of vulnerability (as in intimate relationships), or a field of interest (as in a mentorship).
+
+New social platforms and social media systems have not been designed with this in mind. While they create some kinds of refuge, in other areas they leave us unsupported and/or exposed. Newsfeeds and comment threads--our most popular structured asynchronous media--don't seem to have the right characteristics; while the unstructured and synchronous forms, like text and video chat, have other problems. Broadcast media like books and films provide certain kinds of refuge but are unsupportive in other ways.
+
+We believe it will be possible to find structured formats that make room for the full social fabric.
+
+
+
+3. Dignified Protocols
+
+Our devices can act so as to weaken or to strengthen our individuality and agency. This happens on many levels:
+
+* the menus presented can either encourage us to make thoughtful and decisive choices, or can encourage us to scroll along thoughtlessly
+
+* companies and apps which interact with us can be scored based on how much they get us entertained or addicted, versus how well the support the full expression of our values
+
+The protocols that govern the interaction of the device with the user, the user with apps and companies Etc.... These can be dignified or undignified. We say they are dignified when they meet the user as an agent, undignified when they manipulate the user by driving behavior that doesn't come from the users own agency.
+
+
+
+
+
+
+
+## Working with Us
+
+We will mostly hire researchers that have already made prototypes that fit our criteria and who want support and a community in which to take them further.
+
+We are open to adding other problem areas, if they can be articulated clearly and have direct relevance to human life, individual agency, and the social fabric[1].
+
+
+[1] There is a tendency in technology to focus on technical ideals rather than human ideals. Technical ideals include decentralization, open source and open standards, inspectability, cryptographic security and privacy, and so on. In our experience, it is worth keeping one's eye on the human ideals, rather than pointing an organizational mission towards technical ideals which are, at best, proxies for what we really need.
+
+----
+
+“happiness,” “sharing,” “immersive,” “efficient,” “compelling,” or even “social”—into ends.
